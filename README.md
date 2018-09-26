@@ -1,0 +1,2 @@
+# rakbase
+cpp maro defines
